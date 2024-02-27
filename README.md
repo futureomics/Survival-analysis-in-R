@@ -1,6 +1,6 @@
 # Survival-analysis-in-R
 Survival analysis in R for Lung cancer
-
+ Future Omics Bioinformatics made easy YouTube channel] (https://www.youtube.com/@Bioinformatics_Made_Easy)
 
 NCCTG Lung Cancer Data
 Description
